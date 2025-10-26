@@ -10,6 +10,9 @@ Install Xcode Command Line Tools, which includes Git, by running:
 **On a Windows computer**:
 Download and install Git for Windows from the official Git website
 
+# Install Python (if not already installed):
+Download and install the latest stable version from python.org
+
 # Clone repository
 git clone  https://github.com/saranyamadhusudhan-prog/TicTacToeConsoleVsComputer-Python.git
 
